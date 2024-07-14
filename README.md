@@ -1,3 +1,4 @@
+![logo](https://github.com/nikhiljangid120/nikhiljangid120/blob/main/WhatsApp%20Image%202024-07-14%20at%2021.52.30_e2c5c567.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Jangid</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align = "right" alt = "coding" width  "400" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z3NnZpMnNpZ2xmazl4d3VsODE1aGdsbXc4cndyempsb2VtdzFlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
