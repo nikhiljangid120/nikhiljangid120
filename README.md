@@ -21,15 +21,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--   <a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/" target="blank">
+   <a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/nikhil_888" target="blank">
+<!--   <a href="https://www.leetcode.com/nikhil_888" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode Profile" height="30" width="40" />
-  </a> -->
+  </a> 
   <a href="https://auth.geeksforgeeks.org/user/nikhiljals77" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -75,8 +75,6 @@
 </p>
 
 ---
-![Repo Badge](https://img.shields.io/github/v/release/nikhiljangid120/repository-name?include_prereleases&label=Release&style=for-the-badge)
-
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -87,15 +85,7 @@
 
 ---
 
-<img src="https://github.com/nikhiljangid120/nikhiljangid120/blob/main/github-contribution-grid-snake.svg" alt="3D Contribution Graph" width="100%" />
-
 
 <h3 align="center">Let's Build Something Amazing Together! 🚀</h3>
 
 ---
-
-### ✨ Fun Add-ons:
-- **Dynamic Quotes:** Add an inspirational quote with a randomly generated image:
-
-  ```markdown
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
