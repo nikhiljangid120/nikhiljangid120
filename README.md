@@ -20,7 +20,9 @@
 <!-- <a href="https://www.leetcode.com/nikhil_888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_888" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nikhiljals77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhiljals77" height="30" width="40" /></a> -->
 
-<a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="nikhil_888" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Nikhil Jangid LinkedIn Profile" height="30" width="40" />
+  </a>
   
 </p>
 
