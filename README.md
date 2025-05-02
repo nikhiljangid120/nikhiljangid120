@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently learning **MERN Stack, DSA**
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://nikhiljangid120.github.io/CBTCIP/Personal%20Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://nikhiljangid.vercel.app/)
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **nikhiljangid343@gmail.com**
 - ⚡ Fun fact **🎥 I secretly enjoy making videos on YouTube in my free time, blending creativity with my tech skills.**
