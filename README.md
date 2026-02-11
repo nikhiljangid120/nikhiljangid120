@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=NIKHIL+JANGID" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Building+Scalable+Digital+Experiences;Turning+Ideas+into+Production-Ready+Applications;Focused+on+Growth,+Performance,+and+Clean+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Crafting+Scalable+Digital+Experiences;Building+Fast,+Secure,+and+Production-Ready+Applications;Focused+on+Clean+Architecture+%26+Performance" />
 
 <br/>
 
@@ -22,50 +22,65 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Developer Identity
 
 <pre>
 class NikhilJangid extends Developer {
   constructor() {
     super();
-    this.name       = "Nikhil Jangid";
-    this.role       = "Full Stack Developer";
-    this.location   = "India";
-    this.focus      = "Scalable Web Applications";
-    this.available  = true;
-  }
-
-  get techStack() {
-    return {
-      frontend:  ["React", "Next.js", "TypeScript", "Redux"],
-      backend:   ["Node.js", "Express", "REST APIs"],
-      database:  ["MongoDB", "MySQL", "Firebase"],
-      languages: ["JavaScript", "C++", "Python"],
-      tools:     ["Git", "Docker", "Linux", "Figma"]
-    };
-  }
-
-  sayHi() {
-    console.log("Let's build something impactful 🚀");
+    this.role      = "Full Stack Developer";
+    this.specialty = "Scalable Web Applications";
+    this.mindset   = "Performance • UX • Clean Code";
+    this.status    = "Always Building 🚀";
   }
 }
 </pre>
 
 ---
 
-## 🎯 Current Focus
+## 🏆 GitHub Rank System
+
+<div align="center">
+
+### ⭐ CURRENT TIER → **🚀 B++ (Platinum)**
+
+</div>
+
+```
+⚡ S    → Legendary
+🌟 A++  → Grandmaster
+💎 A+   → Master
+🔥 A    → Diamond
+🚀 B++  → Platinum   ← YOU ARE HERE
+💪 B+   → Gold
+📈 B    → Silver
+🌱 C++  → Bronze
+🐣 C+   → Iron
+🐢 C    → Stone
+```
+
+<div align="center">
+
+🎯 **Next Target → 🔥 A (Diamond)**
+
+</div>
+
+---
+
+## ⚡ Current Mission
 
 ```yaml
-🔥 Deep Diving Into: System Design & Scalable Architectures
-🧠 Strengthening: Advanced DSA & Problem Solving
-🌱 Building: Production-Ready SaaS & Web Applications
-☁️ Exploring: Cloud, DevOps & Performance Optimization
-🤖 Integrating: AI & LLM-Powered Features
+🔥 Mastering: System Design & Scalability
+🧠 Sharpening: Advanced DSA & Algorithms
+🌱 Building: SaaS & Real-World Applications
+☁️ Exploring: Cloud & DevOps Engineering
+🤖 Integrating: AI / LLM-Powered Features
+⚡ Optimizing: Performance & Security
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
 **Languages**
 
@@ -73,23 +88,36 @@ class NikhilJangid extends Developer {
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,c" />
 </p>
 
-**Frontend**
+**Frontend Engineering**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css" />
 </p>
 
-**Backend & Database**
+**Backend & Data**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql" />
 </p>
 
-**Tools & Platforms**
+**Tools & Infrastructure**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+✨ **AI Resume Builder**  
+🔗 https://ai-resume-builder-epbj.vercel.app/
+
+✨ **AI Code Analyzer**  
+🔗 https://code-analyzer-f7bq.vercel.app/
+
+✨ **Fitness Platform**  
+🔗 https://fitness-platform-zeta.vercel.app/
 
 ---
 
@@ -107,9 +135,36 @@ class NikhilJangid extends Developer {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljangid120&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhiljangid120/nikhiljangid120/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nikhiljangid120/nikhiljangid120/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 💭 Developer Philosophy
 
-> **"First, solve the problem. Then, write the code."**
+<div align="center">
+
+**"Consistency compounds. Small commits build big futures."**
+
+</div>
 
 ---
 
@@ -139,8 +194,8 @@ class NikhilJangid extends Developer {
 
 <div align="center">
 
-⭐ *If you find my work interesting, consider starring my repositories.*
+⭐ *If you like what you see, consider starring some repositories.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 
 </div>
