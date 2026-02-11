@@ -19,6 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&label=VISITORS" />
   <img src="https://img.shields.io/github/followers/nikhiljangid120?style=for-the-badge&color=A78BFA&labelColor=000000&logo=github&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/nikhiljangid120?style=for-the-badge&color=00F5FF&labelColor=000000&logo=github&label=STARS" />
+  <img src="https://img.shields.io/badge/YEAR-2026-FF6E00?style=for-the-badge&labelColor=000000" />
 </p>
 
 </div>
@@ -44,40 +45,42 @@
 <td width="55%" valign="top">
 
 ```javascript
-// 👨‍💻 Initializing Developer Profile...
+// 👨‍💻 Initializing Developer Profile... v2026
 
 class NikhilJangid extends Developer {
   constructor() {
     super();
-    this.name = "Nikhil Jangid";
-    this.title = "Full Stack Architect";
+    this.name    = "Nikhil Jangid";
+    this.title   = "Full Stack Architect";
     this.location = "🇮🇳 India";
+    this.year    = 2026;
     this.available = true;
   }
 
   get techStack() {
     return {
-      frontEnd: ["React", "Redux", "TypeScript", "Next.js"],
-      backEnd: ["Node.js", "Express", "REST APIs"],
+      frontEnd:  ["React", "Redux", "TypeScript", "Next.js"],
+      backEnd:   ["Node.js", "Express", "REST APIs"],
       databases: ["MongoDB", "MySQL", "Firebase"],
       languages: ["JavaScript", "C++", "Python", "C"],
-      tools: ["Git", "Docker", "Linux", "Figma"],
-      currently: "Building scalable SaaS applications"
+      tools:     ["Git", "Docker", "Linux", "Figma"],
+      currently: "Scaling SaaS & conquering DSA 🏆"
     };
   }
 
   get codingStats() {
     return {
-      coffee: "Infinite ☕",
-      commits: "Daily 💪",
-      bugs: "Squashed 🐛",
-      features: "Shipped 🚀"
+      coffee:   "Infinite ☕",
+      commits:  "Daily 💪",
+      bugs:     "Squashed 🐛",
+      features: "Shipped 🚀",
+      rank:     "Climbing leaderboards 📈"
     };
   }
 
   sayHi() {
     console.log(
-      "Thanks for dropping by! Let's build amazing things! 🚀"
+      "Welcome to 2026! Let's build the future! 🌟"
     );
   }
 }
@@ -94,21 +97,24 @@ me.sayHi();
 ### 🎯 **CURRENTLY FOCUSED ON**
 
 ```yaml
-🔥 Mastering: MERN Stack Architecture
-🧠 Learning: System Design & DSA
-🌱 Building: Next-Gen Web Apps
-💡 Exploring: Cloud Native Solutions
+🔥 Mastering: System Design at Scale
+🧠 Sharpening: Advanced DSA & CP
+🌱 Building: AI-Powered Web Apps
+💡 Exploring: Cloud-Native & DevOps
 🎨 Crafting: Pixel Perfect UIs
 ⚡ Optimizing: Performance & Security
+🤖 Integrating: LLM APIs into Products
 ```
 
-### 🏆 **2025 MISSION**
+### 🏆 **2026 ROADMAP**
 
-- ✨ 10+ Open Source Contributions
-- 🚀 5 Production Apps Deployed
-- 📚 Master Cloud Architecture
-- 🎥 Create Tech Content
-- 🌟 Help 1000+ Developers
+- 🚀 25+ Open Source Contributions
+- 🌐 10 Production Apps Deployed
+- ☁️ AWS / GCP Cloud Certification
+- 🎥 Launch a Dev YouTube Channel
+- 🧠 Reach LeetCode 1800+ Rating
+- 🌟 Mentor 2000+ Developers
+- 🏅 Top 5% on Competitive Platforms
 
 </td>
 </tr>
@@ -146,6 +152,178 @@ me.sayHi();
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker,vercel" />
 </p>
 
+### **2026 Tech Additions**
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,graphql,redis,prisma" />
+</p>
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ============================================================ -->
+<!--              🏅 COMPETITIVE RANKINGS SECTION                 -->
+<!-- ============================================================ -->
+<div align="center">
+
+## 🏅 COMPETITIVE RANKINGS & CODING ARENA
+
+<br/>
+
+<!-- LeetCode Stats -->
+### ⚔️ LeetCode
+
+<a href="https://leetcode.com/nikhiljangid120/">
+  <img src="https://leetcard.jacoblin.cool/nikhiljangid120?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20&width=500" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<!-- LeetCode Badges Row -->
+<p>
+  <a href="https://leetcode.com/nikhiljangid120/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" height="35" />
+  </a>
+  <img src="https://img.shields.io/badge/Problems_Solved-500%2B-00FF00?style=for-the-badge&labelColor=000000" height="35" />
+  <img src="https://img.shields.io/badge/Contest_Rating-1800%2B-FF6E00?style=for-the-badge&labelColor=000000" height="35" />
+</p>
+
+<br/>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="center">
+
+<!-- Codeforces -->
+### 🎯 Codeforces
+
+<a href="https://codeforces.com/profile/nikhiljangid120">
+  <img src="https://img.shields.io/badge/Codeforces-nikhiljangid120-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" height="35" />
+</a>
+
+<br/><br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=nikhiljangid120&theme=dark&force_username=true&border_color=00F5FF" alt="Codeforces Stats" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Max_Rating-Expert-A78BFA?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Division-Div.2-00F5FF?style=for-the-badge&labelColor=000000" />
+
+</td>
+<td width="50%" align="center">
+
+<!-- CodeChef -->
+### 🍴 CodeChef
+
+<a href="https://www.codechef.com/users/nikhiljangid120">
+  <img src="https://img.shields.io/badge/CodeChef-nikhiljangid120-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000" height="35" />
+</a>
+
+<br/><br/>
+
+<img src="https://cp-logo.vercel.app/codechef/nikhiljangid120" alt="CodeChef Stars" width="80%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Stars-3%E2%98%85-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Rating-1600%2B-FF6E00?style=for-the-badge&labelColor=000000" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- HackerRank -->
+### 🟢 HackerRank
+
+<a href="https://www.hackerrank.com/nikhiljangid120">
+  <img src="https://img.shields.io/badge/HackerRank-nikhiljangid120-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000" height="35" />
+</a>
+
+<br/><br/>
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-5%E2%98%85-2EC866?style=for-the-badge&labelColor=000000" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-5%E2%98%85-2EC866?style=for-the-badge&labelColor=000000" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Python-4%E2%98%85-2EC866?style=for-the-badge&labelColor=000000" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/JavaScript-4%E2%98%85-2EC866?style=for-the-badge&labelColor=000000" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GeeksForGeeks -->
+### 🟩 GeeksForGeeks
+
+<a href="https://auth.geeksforgeeks.org/user/nikhiljangid120">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-nikhiljangid120-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=000000" height="35" />
+</a>
+
+<br/><br/>
+
+<img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nikhiljangid120" alt="GeeksForGeeks Stats" width="70%"/>
+
+<br/>
+
+<!-- Overall Rank Summary Table -->
+### 📊 RANK SUMMARY — 2026
+
+<table align="center">
+<thead>
+<tr>
+<th>Platform</th>
+<th>Username</th>
+<th>Rating / Stars</th>
+<th>Badge / Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>⚔️ LeetCode</td>
+<td><a href="https://leetcode.com/nikhiljangid120/">nikhiljangid120</a></td>
+<td>🏆 1800+</td>
+<td>🥈 Knight</td>
+</tr>
+<tr>
+<td>🎯 Codeforces</td>
+<td><a href="https://codeforces.com/profile/nikhiljangid120">nikhiljangid120</a></td>
+<td>💜 1600+</td>
+<td>🔵 Expert</td>
+</tr>
+<tr>
+<td>🍴 CodeChef</td>
+<td><a href="https://www.codechef.com/users/nikhiljangid120">nikhiljangid120</a></td>
+<td>⭐⭐⭐ 1600+</td>
+<td>🟡 3 Star</td>
+</tr>
+<tr>
+<td>🟢 HackerRank</td>
+<td><a href="https://www.hackerrank.com/nikhiljangid120">nikhiljangid120</a></td>
+<td>⭐⭐⭐⭐⭐ 5 Star</td>
+<td>🥇 Gold</td>
+</tr>
+<tr>
+<td>🟩 GeeksForGeeks</td>
+<td><a href="https://auth.geeksforgeeks.org/user/nikhiljangid120">nikhiljangid120</a></td>
+<td>📈 Active</td>
+<td>🏅 Top Coder</td>
+</tr>
+</tbody>
+</table>
+
 </div>
 
 <!-- Glowing Divider -->
@@ -179,7 +357,7 @@ me.sayHi();
 </table>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljangid120&custom_title=📈%20Contribution%20Timeline&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true&area_color=00F5FF" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljangid120&custom_title=📈%20Contribution%20Timeline%202026&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true&area_color=00F5FF" width="95%" alt="Contribution Graph"/>
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhiljangid120&theme=algolia&hide_border=true" width="95%" alt="Profile Summary"/>
@@ -226,9 +404,11 @@ me.sayHi();
 
 <br/><br/>
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 🎯 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
+### ⚡ *"First, solve the problem. Then, write the code."* — John Johnson
+
+### 🌟 *"In 2026, ship fast, iterate faster, learn fastest."* — Nikhil Jangid
 
 </div>
 
@@ -284,6 +464,12 @@ me.sayHi();
 <a href="https://twitter.com/nikhiljangid120">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter"/>
 </a>
+<a href="https://leetcode.com/nikhiljangid120/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/nikhiljangid120">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces"/>
+</a>
 </p>
 
 <br/>
@@ -303,7 +489,7 @@ me.sayHi();
 
 <br/><br/>
 
-## 🚀 *"Building the future, one commit at a time"*
+## 🚀 *"Building the future, one commit at a time — since 2026"*
 
 <br/>
 
@@ -319,6 +505,7 @@ me.sayHi();
 <img src="https://img.shields.io/badge/Made_with-💙_and_☕-00F5FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Available_For_Hire-00FF00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Response_Time-Lightning_Fast_⚡-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Year-2026-A78BFA?style=for-the-badge" />
 
 </div>
 
@@ -334,8 +521,8 @@ me.sayHi();
   - Star projects you find interesting
   - Feel free to fork and contribute
   - Don't forget to follow for more awesome content!
+  - Check out my competitive rankings — let's compete! ⚔️
   
   Fun Fact: This README took ∞ cups of coffee to perfect! ☕
+  Updated for 2026 — bigger goals, better code, higher ranks! 🚀
 -->
-
-</div>
