@@ -1,6 +1,5 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling"/>
-
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
 </h1>
