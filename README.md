@@ -1,7 +1,25 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:00F5FF&height=220&section=header&animation=twinkling"/>
+<div align="center">
+
+<h1>Nikhil Jangid</h1>
+
+<p>
+Software Engineer | Full Stack (MERN + Next.js) | GenAI Systems
+</p>
+
+<p>
+<a href="https://nikhiljangid.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+<a href="https://leetcode.com/nikhiljangid120/">
+  <img src="https://img.shields.io/badge/LeetCode-Top 6%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
+</p>
+
+</div>
 
 <!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
@@ -209,8 +227,4 @@ class NikhilJangid extends Developer {
 <div align="center">
 
 ⭐ *If you like what you see, consider starring some repositories.*
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:A78BFA,70:302b63,100:0f0c29&height=150&section=footer"/>
-
 </div>
