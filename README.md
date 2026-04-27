@@ -3,27 +3,24 @@
 <h1>Nikhil Jangid</h1>
 
 <p>
-  <b>Software Engineer</b> | Full Stack (MERN + Next.js) | GenAI Systems
+<b>Software Engineer</b> | Full Stack (MERN + Next.js) | GenAI Systems
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Real-Time+AI+Applications;Designing+Scalable+Full+Stack+Systems;Focused+on+Performance+%26+Clean+Architecture;400%2B+DSA+Problems+Solved+(LeetCode+Top+6%25)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+Real-Time+AI+Applications;Designing+Scalable+Full+Stack+Systems;Focused+on+Performance+%26+Clean+Architecture;400%2B+DSA+Problems+Solved+(LeetCode+Top+6%25)" />
 
 <br/>
 
 <p>
-  <a href="https://nikhiljangid.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&labelColor=0D1117"/>
-  </a>
-  <a href="https://leetcode.com/nikhiljangid120/">
-    <img src="https://img.shields.io/badge/LeetCode-Top 6%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
+<a href="https://nikhiljangid.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+<a href="https://leetcode.com/nikhiljangid120/">
+  <img src="https://img.shields.io/badge/LeetCode-Top 6%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
 </p>
 
 </div>
-
-<!-- NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
 
 <br/>
 
