@@ -1,27 +1,27 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00F5FF&height=220&section=header&animation=twinkling&fontColor=00F5FF"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
-</h1>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:00F5FF&height=220&section=header&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+Crafting+Scalable+Digital+Experiences;Top+6%25+on+LeetCode+%7C+GFG+Institute+Rank+%231+%40+Amity;Building+AI-Powered%2C+Production-Ready+Web+Applications;Clean+Architecture+%E2%80%A2+Performance+%E2%80%A2+Scalability" />
+<!-- NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=65&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=NIKHIL+JANGID" />
 
 <br/>
 
-<p>
-  <a href="https://nikhiljangid.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore-00F5FF?style=for-the-badge&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/nikhiljangid120/">
-    <img src="https://img.shields.io/badge/LeetCode-Top_6%25_Global-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&labelColor=000000"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/nikhiljangid120?style=for-the-badge&color=A78BFA&labelColor=000000"/>
-</p>
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+%7C+Scalable+Digital+Experiences;Top+6%25+LeetCode+Global+%7C+GFG+Institute+Rank+%231+%40+Amity;AI-Powered+%7C+Production-Ready+%7C+Clean+Architecture;Always+Building+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<!-- BADGES -->
+<a href="https://nikhiljangid.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+<a href="https://leetcode.com/nikhiljangid120/">
+  <img src="https://img.shields.io/badge/LeetCode-Top 6%25 Global-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nikhiljangid120&style=for-the-badge&color=00F5FF&labelColor=0D1117&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/nikhiljangid120?style=for-the-badge&color=A78BFA&labelColor=0D1117&label=FOLLOWERS"/>
 
 </div>
 
@@ -29,20 +29,20 @@
 
 ## 👨‍💻 Developer Identity
 
-<pre>
+```js
 class NikhilJangid extends Developer {
   constructor() {
     super();
-    this.role           = "Full Stack Developer";
-    this.specialty      = "Scalable Web Applications + AI Integration";
-    this.university     = "Amity University Rajasthan (B.Tech CSE — 2026)";
-    this.competitive    = "LeetCode Top 6% Global | GFG Institute Rank #1 @ Amity";
-    this.experience     = "Frontend Developer Intern @ Celebal Technologies, Jaipur";
-    this.mindset        = "Performance • UX • Clean Code • Ship It";
-    this.status         = "Building. Always. 🚀";
+    this.role        = "Full Stack Developer";
+    this.university  = "Amity University Rajasthan — B.Tech CSE (2026)";
+    this.competitive = "LeetCode Top 6% Global | GFG Institute Rank #1 @ Amity";
+    this.experience  = "Frontend Developer Intern @ Celebal Technologies, Jaipur";
+    this.building    = "AI-Powered SaaS | Scalable Web Applications";
+    this.mindset     = "Performance • UX • Clean Code • Ship It";
+    this.status      = "Always Building 🚀";
   }
 }
-</pre>
+```
 
 ---
 
@@ -50,7 +50,7 @@ class NikhilJangid extends Developer {
 
 <div align="center">
 
-### 🔥 CURRENT TIER → **💎 A+ (Master)**
+### ⭐ CURRENT TIER → **💎 A+ (Master)**
 
 </div>
 
@@ -63,8 +63,6 @@ class NikhilJangid extends Developer {
 💪 B+   → Gold
 📈 B    → Silver
 🌱 C++  → Bronze
-🐣 C+   → Iron
-🐢 C    → Stone
 ```
 
 <div align="center">
@@ -78,13 +76,13 @@ class NikhilJangid extends Developer {
 ## ⚡ Current Mission
 
 ```yaml
-🔥 Mastering:    System Design, Scalability & Distributed Systems
-🧠 Sharpening:   Advanced DSA & Algorithms (C++ | Top 6% LeetCode)
-🌱 Building:     AI-Powered SaaS & Real-World Full Stack Applications
-☁️ Exploring:    Cloud Infrastructure & DevOps Engineering
-🤖 Integrating:  LLM APIs, RAG Pipelines & AI-Powered Features
-⚡ Optimizing:   Performance, Security & Production-Grade Architecture
-🎯 Targeting:    Full Stack Developer Roles | Jaipur & Remote
+🔥 Mastering:   System Design & Scalable Architecture
+🧠 Sharpening:  Advanced DSA in C++ — LeetCode Top 6% Globally
+🌱 Building:    AI-Powered SaaS & Real-World Full Stack Apps
+☁️ Exploring:   Cloud Infrastructure & DevOps Engineering
+🤖 Integrating: LLM APIs, RAG Pipelines & AI-Powered Features
+⚡ Optimizing:  Performance, Security & Production-Grade Code
+🎯 Targeting:   Full Stack Developer Roles — Jaipur & Beyond
 ```
 
 ---
@@ -94,10 +92,10 @@ class NikhilJangid extends Developer {
 <div align="center">
 
 | Platform | Achievement |
-|----------|-------------|
-| 🟡 **LeetCode** | Top **6% Globally** — 500+ problems solved |
+|:--------:|:-----------:|
+| 🟡 **LeetCode** | **Top 6% Globally** — 500+ problems solved |
 | 🟢 **GeeksForGeeks** | **Institute Rank #1** at Amity University Rajasthan |
-| 🔵 **Codeforces** | Active competitor — Regular contest participant |
+| 🔵 **Codeforces** | Active competitor — Regular contest participation |
 
 </div>
 
@@ -107,37 +105,29 @@ class NikhilJangid extends Developer {
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,c" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,cpp,python,c" /></p>
 
 **Frontend Engineering**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css" /></p>
 
-**Backend & Data**
+**Backend & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql" /></p>
 
 **Tools & Infrastructure**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" /></p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Live |
-|---------|------------|------|
-| 🤖 **AI Resume Builder** | AI-powered resume creation with real-time suggestions & export | [🔗 Live](https://ai-resume-builder-epbj.vercel.app/) |
-| 🧠 **AI Code Analyzer** | Intelligent code review, bug detection & optimization hints | [🔗 Live](https://code-analyzer-f7bq.vercel.app/) |
-| 💪 **Fitness Platform** | Full-featured fitness tracking & workout management platform | [🔗 Live](https://fitness-platform-zeta.vercel.app/) |
+| 🚀 Project | 💡 Description | 🔗 Link |
+|:-----------|:--------------|:-------:|
+| 🤖 **AI Resume Builder** | AI-powered resume generation with real-time suggestions & PDF export | [Live ↗](https://ai-resume-builder-epbj.vercel.app/) |
+| 🧠 **AI Code Analyzer** | Intelligent code review, bug detection & optimization hints | [Live ↗](https://code-analyzer-f7bq.vercel.app/) |
+| 💪 **Fitness Platform** | Full-featured fitness tracking & workout management platform | [Live ↗](https://fitness-platform-zeta.vercel.app/) |
 
 ---
 
@@ -145,13 +135,13 @@ class NikhilJangid extends Developer {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikhiljangid120&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhiljangid120&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljangid120&theme=algolia&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljangid120&theme=algolia&hide_border=true"/>
+<br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljangid120&layout=compact&theme=algolia&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=nikhiljangid120&theme=algolia&no-frame=true&row=1&column=4"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljangid120&layout=compact&theme=algolia&hide_border=true"/>
+<img width="55%" src="https://github-profile-trophy.vercel.app/?username=nikhiljangid120&theme=algolia&no-frame=true&row=1&column=5&margin-w=4"/>
 
 </div>
 
@@ -160,9 +150,7 @@ class NikhilJangid extends Developer {
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljangid120&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true"/>
-
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljangid120&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -170,12 +158,10 @@ class NikhilJangid extends Developer {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhiljangid120/nikhiljangid120/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/nikhiljangid120/nikhiljangid120/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 ---
@@ -209,7 +195,7 @@ class NikhilJangid extends Developer {
 </a>
 &nbsp;
 <a href="https://github.com/nikhiljangid120">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/nikhiljangid120/">
@@ -224,6 +210,7 @@ class NikhilJangid extends Developer {
 
 ⭐ *If you like what you see, consider starring some repositories.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:A78BFA,100:0D1117&height=140&section=footer"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:A78BFA,70:302b63,100:0f0c29&height=150&section=footer"/>
 
 </div>
