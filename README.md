@@ -7,7 +7,6 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+scalable+real-time+applications;Designing+clean+full-stack+architectures;Focused+on+performance+%26+system+design;400%2B+DSA+problems+(LeetCode+Top+6%25)" />
-
 <br/>
 
 <p>
