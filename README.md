@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>Nikhil Jangid</h1>
 <p>
 <b>Software Engineer</b> • Full Stack (MERN + Next.js) • Real-Time AI Systems
