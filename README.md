@@ -168,7 +168,7 @@ I also deliberately work on **non-standard interview problems**, where the harde
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **1st Place, College-level Hackathon**, January 2025, AI Code Analyzer
+- 🥇 **1st Place, College-level Hackathon**, January 2026, AI Code Analyzer
 - 🧠 **400+ DSA Problems**, C++ · LeetCode + GeeksforGeeks
 - 💻 **4,500+ GitHub Contributions**
 - 🌐 **GirlScript Summer of Code 2025 Contributor**
