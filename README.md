@@ -84,7 +84,7 @@ Flyeng Career brings career guidance, learning, coding practice, interview prepa
 
 **Architecture highlights:** Next.js App Router, server-side API routes, authentication, database-backed application state, AI service integrations, browser-based code execution, analytics, and a modular component architecture.
 
-→ **[Live Project](https://flyengcareer.com)** · **[Repository](https://github.com/nikhiljangid120/Flyeng-Career)**
+→ **[Live Project](https://flyeng-career.vercel.app/)** · **[Repository](https://github.com/nikhiljangid120/Flyeng-Career)**
 
 ---
 
