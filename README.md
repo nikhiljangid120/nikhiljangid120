@@ -6,6 +6,8 @@
 
 ### Software Engineer · Full-Stack · Backend · AI Systems · C++ DSA
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+practical+software+and+reliable+AI+systems;Backend+%7C+RAG+%7C+Agentic+AI+%7C+C%2B%2B+DSA;Understand+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="Typing animation" />
+
 **Building practical software, reliable backends, and AI-powered products.**
 
 <p>
@@ -260,6 +262,8 @@ The long-term goal is to build systems that are not only capable, but **understa
 ## Let's Connect
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Always+building+something+new;%F0%9F%94%A7+Always+learning+how+it+works;%F0%9F%9A%80+Always+improving+the+system" alt="Closing animation" />
 
 <p>
 <a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
