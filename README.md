@@ -30,7 +30,7 @@
 
 I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**, based in Jaipur, India.
 
-I work across **full-stack development, backend engineering, AI applications, developer tooling, and C++ problem solving**. My current engineering interest is the layer where software systems and AI meet: APIs, data flows, retrieval, tool use, evaluation, reliability, security, and production-oriented system design.
+I work across **full-stack development, backend engineering, AI applications, developer tooling, and C++ problem solving**. My engineering focus is the layer where software systems and AI meet: APIs, data flows, retrieval, tool use, evaluation, reliability, security, and production-oriented system design.
 
 I prefer understanding systems beyond the framework layer. When I build something, I want to understand the path from **request → application logic → database / retrieval → model / service → response**, including where latency, inconsistent state, security problems, bad inputs, and silent failures can occur.
 
@@ -104,9 +104,15 @@ Following the engineering ecosystem around **MCP servers, coding agents, agent h
 
 ### ✈️ Flyeng Career
 
-AI-assisted career and placement-preparation platform built with **Gulshan Jangid**, focused on practical career guidance and student workflows.
+**Flyeng Career** is an AI-powered career guidance and placement-preparation platform I built to make career exploration and interview preparation more practical for students.
 
-**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` `Groq`
+The product is designed around the problems students face while preparing for software careers: understanding what to learn, navigating career options, getting actionable guidance, and turning preparation into a more structured workflow.
+
+A key part of the product is its **AI-powered interaction layer**, including conversational and voice-oriented guidance, so users can interact with the system more naturally instead of relying only on static career resources.
+
+I worked across the product experience and engineering stack, connecting the **frontend, backend services, database layer, and AI capabilities** into a student-facing application.
+
+**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` `Groq` `AI APIs`
 
 **[Live Project](https://flyeng-career.vercel.app/)**
 
@@ -115,6 +121,8 @@ AI-assisted career and placement-preparation platform built with **Gulshan Jangi
 ### 🔎 RAG Chatbot
 
 Document question-answering system covering **document ingestion, chunking, embeddings, vector retrieval, and LLM generation**.
+
+The project explores the complete retrieval pipeline: transforming source documents into searchable representations, retrieving relevant context, and passing that context to an LLM for grounded responses.
 
 **Stack:** `NestJS` `PostgreSQL` `pgvector` `MiniLM` `OpenRouter` `Docker`
 
@@ -125,6 +133,8 @@ Document question-answering system covering **document ingestion, chunking, embe
 ### 🧠 AI Code Analyzer
 
 Developer tool for **AI-assisted code analysis, debugging, complexity reasoning, and algorithm visualization**.
+
+The application combines an interactive coding environment with AI-assisted analysis to help users understand code behaviour, identify issues, reason about complexity, and visualize algorithmic concepts.
 
 **Stack:** `Next.js` `TypeScript` `Monaco Editor` `AI APIs`
 
@@ -137,6 +147,8 @@ Developer tool for **AI-assisted code analysis, debugging, complexity reasoning,
 ### 📄 AI Resume Builder
 
 Resume engineering application for **structured editing, AI-assisted improvements, ATS-oriented analysis, and PDF generation**.
+
+The project focuses on turning resume creation into a structured editing workflow rather than a simple document template, with AI assistance for improving and evaluating resume content.
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Groq` `Clerk`
 
@@ -174,10 +186,6 @@ My goal is not to increase the problem count for its own sake. I focus on being 
 - Edge cases and failure modes
 - The reasoning behind an optimization
 - When a familiar pattern does **not** apply
-
-### Current Practice Areas
-
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search` `Linked Lists` `Stacks` `Queues` `Trees` `BSTs` `Heaps` `Graphs` `Recursion` `Backtracking` `Dynamic Programming` `Greedy` `Bit Manipulation` `Sorting` `Searching` `Complexity Analysis`
 
 I also deliberately practice **non-standard interview problems**, where the difficult part is often modelling the problem correctly rather than recognizing a familiar pattern.
 
@@ -253,13 +261,15 @@ The long-term goal is to build systems that are not only capable, but **understa
 
 <div align="center">
 
-<a href="https://www.nikhiljangid.tech/">🌐 Portfolio</a> ·
-<a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/">💼 LinkedIn</a> ·
-<a href="https://github.com/nikhiljangid120">💻 GitHub</a> ·
-<a href="https://leetcode.com/nikhiljangid120/">🧠 LeetCode</a> ·
-<a href="mailto:nikhiljangid343@gmail.com">✉️ Email</a>
+<p>
+<a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nikhiljangid120"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/nikhiljangid120/"><img src="https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:nikhiljangid343@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br/><br/>
+<br/>
 
 **Building · Learning · Measuring · Improving**
 
