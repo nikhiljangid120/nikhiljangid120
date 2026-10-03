@@ -41,7 +41,7 @@ I enjoy going one layer deeper than the framework. When I build a feature, I wan
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech CSE · 2026 · CGPA 8.48 |
-| 💼 **Recent Experience** | Wisflux Tech Labs · Agentic AI / Software Engineering Intern |
+| 💼 **Recent Experience** | Wisflux Tech Labs · SDE Intern |
 | 🧠 **Problem Solving** | 400+ DSA problems in C++ |
 | 🏗️ **Build Focus** | Backend · AI Systems · Full-Stack · Developer Tools |
 | 📍 **Based in** | Jaipur, Rajasthan, India |
@@ -94,7 +94,7 @@ It combines an interactive coding environment with AI-assisted analysis to help 
 
 **Stack:** `Next.js` `TypeScript` `Monaco Editor` `AI APIs`
 
-🏆 **1st Place · College-level Hackathon · January 2025**
+🏆 **1st Place · College-level Hackathon · January 2026**
 
 🔗 **[Live Project](https://code-analyzer-f7bq.vercel.app/)** · **[Source Code](https://github.com/nikhiljangid120/Code-Analyzer)**
 
@@ -114,9 +114,9 @@ The goal was to make resume creation a structured engineering workflow rather th
 
 ## 💼 Experience
 
-### Wisflux Tech Labs · Agentic AI / Software Engineering Intern
+### Wisflux Tech Labs · SDE Intern
 
-`Jun 2026 - Jul 2026 · Jaipur, India`
+`Jun 2026 - Aug 2026 · Jaipur, India`
 
 Worked with **NestJS, TypeORM, PostgreSQL, JWT, Docker, background processing, and RAG systems**, contributing to backend APIs, transactional workflows, document ingestion, embeddings, and vector retrieval.
 
@@ -124,7 +124,7 @@ The work exposed me to practical concerns around **concurrency, data consistency
 
 ### Celebal Technologies · Frontend Developer Intern
 
-`May 2024 - Jul 2024`
+`May 2025 - Jul 2025`
 
 Worked on frontend development with **modern JavaScript and React-based tooling**, gaining practical experience with component-driven interfaces and web application development.
 
@@ -163,8 +163,6 @@ I don't want problem solving to become a collection of memorized patterns. For e
 - When a familiar pattern does **not** apply
 
 I also deliberately work on **non-standard interview problems**, where the harder part is often modelling the problem correctly before choosing an algorithm.
-
-🔗 **[View my LeetCode profile →](https://leetcode.com/nikhiljangid120/)**
 
 ---
 
