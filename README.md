@@ -2,13 +2,11 @@
 
 <img src="./profile-banner.svg" alt="Nikhil Jangid - Software Engineer" width="100%" />
 
-# Nikhil Jangid
+<br/>
 
-### Software Engineer · Full-Stack · Backend · AI Systems · C++ DSA
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Software+Engineer+%C2%B7+Backend+%C2%B7+AI+Systems;Building+practical+products+and+reliable+backends;RAG+%C2%B7+Agents+%C2%B7+Developer+Tooling+%C2%B7+C%2B%2B+DSA;Understand+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="Typing introduction" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+practical+software+and+reliable+AI+systems;Backend+%7C+RAG+%7C+Agentic+AI+%7C+C%2B%2B+DSA;Understand+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="Typing animation" />
-
-**Building practical software, reliable backends, and AI-powered products.**
+<br/>
 
 <p>
 <a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -28,137 +26,93 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**, based in Jaipur, India.
 
-I work across **full-stack development, backend engineering, AI applications, developer tooling, and C++ problem solving**. My engineering focus is the layer where software systems and AI meet: APIs, data flows, retrieval, tool use, evaluation, reliability, security, and production-oriented system design.
+I build across **software engineering, backend systems, full-stack applications, AI products, developer tooling, and C++ problem solving**. My strongest interest is the engineering layer where software and AI meet: APIs, data flows, retrieval, model integration, tool use, evaluation, reliability, security, and production-oriented design.
 
-I prefer understanding systems beyond the framework layer. When I build something, I want to understand the path from **request → application logic → database / retrieval → model / service → response**, including where latency, inconsistent state, security problems, bad inputs, and silent failures can occur.
+I enjoy going one layer deeper than the framework. When I build a feature, I want to understand the path from **request → application logic → database / retrieval → model / service → response**, and what happens when something goes wrong.
 
 > **Understand the system. Build it. Measure it. Improve it.**
 
-### Quick Snapshot
+### ⚡ Quick Snapshot
 
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech CSE · 2026 · CGPA 8.48 |
-| 💼 **Recent Experience** | Wisflux Tech Labs · Agentic AI / Software Engineering |
+| 💼 **Recent Experience** | Wisflux Tech Labs · Agentic AI / Software Engineering Intern |
 | 🧠 **Problem Solving** | 400+ DSA problems in C++ |
+| 🏗️ **Build Focus** | Backend · AI Systems · Full-Stack · Developer Tools |
 | 📍 **Based in** | Jaipur, Rajasthan, India |
-| 🎯 **Core Focus** | Software Engineering · Backend · AI Systems · C++ DSA |
 
 ---
 
-## Technical Stack
+## 🚀 Selected Work
 
-### Languages
-
-`C++` `C` `Java` `JavaScript` `TypeScript`
-
-### Frontend & Full-Stack
-
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite` `Monaco Editor`
-
-### Backend & Databases
-
-`Node.js` `NestJS` `Express` `TypeORM` `PostgreSQL` `MongoDB` `Supabase` `MySQL` `Firebase` `OpenAPI` `Zod`
-
-### AI / GenAI
-
-`LLM Applications` `RAG` `Embeddings` `Vector Search` `pgvector` `Tool Calling` `MCP` `Agent Workflows` `Structured Outputs` `Context Engineering` `Model Routing` `AI APIs`
-
-### Engineering & Infrastructure
-
-`Git` `GitHub` `Docker` `Docker Compose` `JWT` `REST APIs` `Authentication` `Authorization` `Background Jobs` `Testing` `Observability`
-
----
-
-## What I'm Building & Exploring
-
-### AI Systems
-
-Going deeper into **LLM applications, RAG, retrieval architecture, tool calling, MCP, structured outputs, context engineering, model routing, and agent workflows**.
-
-The focus is on understanding how **information, state, tools, permissions, and failure handling** move through an AI system rather than simply learning another framework.
-
-### Evaluation & Reliability
-
-Exploring **evaluation datasets, task-based evaluations, regression testing, evaluator limitations, failure taxonomies, tracing, observability, latency, cost, and quality metrics**.
-
-The goal is to make AI behaviour measurable and debuggable instead of depending on a handful of successful examples.
-
-### AI Security
-
-Studying security boundaries around AI systems, including **prompt injection, indirect injection, tool permissions, least privilege, sandboxing, secret isolation, untrusted tool output, data boundaries, secure execution, and agent-specific attack surfaces**.
-
-### Backend Engineering
-
-Strengthening **TypeScript, type-safe APIs, NestJS, PostgreSQL, OpenAPI, Zod, authentication, authorization, background jobs, concurrency, validation, testing, and API contracts**.
-
-### AI-Native Developer Tooling
-
-Following the engineering ecosystem around **MCP servers, coding agents, agent harnesses, AI-native IDEs, SDK generation, model routing, structured outputs, long-running agents, secure execution environments, and evaluation infrastructure**.
-
----
-
-## Selected Projects
+I prefer projects where the interesting part is not just the UI, but the **system behind the product**.
 
 ### ✈️ Flyeng Career
 
-**Flyeng Career** is an AI-powered career guidance and placement-preparation platform I built to make career exploration and interview preparation more practical for students.
+**Flyeng Career** is an AI-powered career guidance and placement-preparation platform I built for students navigating software careers.
 
-The product is designed around the problems students face while preparing for software careers: understanding what to learn, navigating career options, getting actionable guidance, and turning preparation into a more structured workflow.
+The product is designed around a simple problem: students often have plenty of resources but lack a structured way to understand **what to learn, which career direction to explore, how to prepare, and what to do next**.
 
-A key part of the product is its **AI-powered interaction layer**, including conversational and voice-oriented guidance, so users can interact with the system more naturally instead of relying only on static career resources.
+I built the platform as a student-facing product with:
 
-I worked across the product experience and engineering stack, connecting the **frontend, backend services, database layer, and AI capabilities** into a student-facing application.
+- **AI-assisted career guidance** for more personalized exploration
+- **Placement-preparation workflows** aimed at turning broad preparation into actionable steps
+- **Conversational and voice-oriented interaction**, making the experience more natural than a static resource portal
+- A full-stack application connecting the **frontend, backend services, database, and AI layer**
+- A product architecture designed to leave room for richer personalization and AI-driven workflows
 
 **Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` `Groq` `AI APIs`
 
-**[Live Project](https://flyeng-career.vercel.app/)**
+🔗 **[Live Project](https://flyeng-career.vercel.app/)**
 
 ---
 
 ### 🔎 RAG Chatbot
 
-Document question-answering system covering **document ingestion, chunking, embeddings, vector retrieval, and LLM generation**.
+A document question-answering system built around the complete retrieval pipeline:
 
-The project explores the complete retrieval pipeline: transforming source documents into searchable representations, retrieving relevant context, and passing that context to an LLM for grounded responses.
+**Documents → ingestion → chunking → embeddings → vector search → retrieved context → LLM generation**
+
+The project gave me hands-on experience with the engineering details behind RAG rather than treating retrieval as a black box.
 
 **Stack:** `NestJS` `PostgreSQL` `pgvector` `MiniLM` `OpenRouter` `Docker`
 
-**[Live Project](https://nikhil-rag-chatbot.onrender.com/)** · **[Source Code](https://github.com/nikhiljangid120/RAG-Chatbot)**
+🔗 **[Live Project](https://nikhil-rag-chatbot.onrender.com/)** · **[Source Code](https://github.com/nikhiljangid120/RAG-Chatbot)**
 
 ---
 
 ### 🧠 AI Code Analyzer
 
-Developer tool for **AI-assisted code analysis, debugging, complexity reasoning, and algorithm visualization**.
+A developer tool for **AI-assisted code analysis, debugging, complexity reasoning, and algorithm visualization**.
 
-The application combines an interactive coding environment with AI-assisted analysis to help users understand code behaviour, identify issues, reason about complexity, and visualize algorithmic concepts.
+It combines an interactive coding environment with AI-assisted analysis to help developers understand code behaviour, identify issues, reason about complexity, and visualize algorithmic concepts.
 
 **Stack:** `Next.js` `TypeScript` `Monaco Editor` `AI APIs`
 
-**[Live Project](https://code-analyzer-f7bq.vercel.app/)** · **[Source Code](https://github.com/nikhiljangid120/Code-Analyzer)**
-
 🏆 **1st Place · College-level Hackathon · January 2025**
+
+🔗 **[Live Project](https://code-analyzer-f7bq.vercel.app/)** · **[Source Code](https://github.com/nikhiljangid120/Code-Analyzer)**
 
 ---
 
 ### 📄 AI Resume Builder
 
-Resume engineering application for **structured editing, AI-assisted improvements, ATS-oriented analysis, and PDF generation**.
+A resume engineering application focused on **structured editing, AI-assisted improvements, ATS-oriented analysis, and PDF generation**.
 
-The project focuses on turning resume creation into a structured editing workflow rather than a simple document template, with AI assistance for improving and evaluating resume content.
+The goal was to make resume creation a structured engineering workflow rather than simply filling out a template.
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Groq` `Clerk`
 
-**[Live Project](https://ai-resume-builder-epbj.vercel.app/)** · **[Source Code](https://github.com/nikhiljangid120/AI-Resume-Builder)**
+🔗 **[Live Project](https://ai-resume-builder-epbj.vercel.app/)** · **[Source Code](https://github.com/nikhiljangid120/AI-Resume-Builder)**
 
 ---
 
-## Engineering Experience
+## 💼 Experience
 
 ### Wisflux Tech Labs · Agentic AI / Software Engineering Intern
 
@@ -166,7 +120,7 @@ The project focuses on turning resume creation into a structured editing workflo
 
 Worked with **NestJS, TypeORM, PostgreSQL, JWT, Docker, background processing, and RAG systems**, contributing to backend APIs, transactional workflows, document ingestion, embeddings, and vector retrieval.
 
-The experience involved practical engineering concerns around **concurrency, data consistency, authentication, background work, retrieval quality, and production-oriented backend design**.
+The work exposed me to practical concerns around **concurrency, data consistency, authentication, background processing, retrieval quality, and backend architecture**.
 
 ### Celebal Technologies · Frontend Developer Intern
 
@@ -176,76 +130,101 @@ Worked on frontend development with **modern JavaScript and React-based tooling*
 
 ---
 
-## Problem Solving & DSA
+## 🧩 Technical Stack
 
-I have solved **400+ DSA problems in C++** across LeetCode and GeeksforGeeks.
+### Languages
+`C++` `C` `Java` `JavaScript` `TypeScript`
 
-My goal is not to increase the problem count for its own sake. I focus on being able to explain:
+### Frontend
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite` `Monaco Editor`
 
-- Why an approach works
-- Why a brute-force approach is insufficient
+### Backend & Data
+`Node.js` `NestJS` `Express` `TypeORM` `PostgreSQL` `MongoDB` `Supabase` `MySQL` `Firebase` `OpenAPI` `Zod`
+
+### AI / GenAI
+`LLM Applications` `RAG` `Embeddings` `Vector Search` `pgvector` `Tool Calling` `MCP` `Agent Workflows` `Structured Outputs` `Context Engineering` `Model Routing` `AI APIs`
+
+### Engineering
+`Git` `GitHub` `Docker` `Docker Compose` `JWT` `REST APIs` `Authentication` `Authorization` `Background Jobs` `Testing` `Observability`
+
+---
+
+## 🧠 Problem Solving
+
+I've solved **400+ DSA problems in C++** across LeetCode and GeeksforGeeks.
+
+I don't want problem solving to become a collection of memorized patterns. For each problem, I care about being able to explain:
+
+- Why the approach works
+- Why brute force is insufficient
 - Time and space complexity
 - Edge cases and failure modes
-- The reasoning behind an optimization
+- Why an optimization is valid
 - When a familiar pattern does **not** apply
 
-I also deliberately practice **non-standard interview problems**, where the difficult part is often modelling the problem correctly rather than recognizing a familiar pattern.
+I also deliberately work on **non-standard interview problems**, where the harder part is often modelling the problem correctly before choosing an algorithm.
 
-**[View my LeetCode profile →](https://leetcode.com/nikhiljangid120/)**
-
----
-
-## Open Source & Community
-
-### GitHub Activity
-
-**4,500+ GitHub contributions**, reflecting sustained activity across software projects and development work.
-
-### GirlScript Summer of Code
-
-**GirlScript Summer of Code 2025 Contributor**, gaining experience with collaborative GitHub workflows and open-source development.
-
-### ELUSOC
-
-**ELUSOC 2026 Participant**, adding another open-source and community learning experience.
+🔗 **[View my LeetCode profile →](https://leetcode.com/nikhiljangid120/)**
 
 ---
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-| Achievement | Year / Detail |
-|---|---|
-| 🏆 **College-level Hackathon · 1st Place** | January 2025 · AI Code Analyzer |
-| 🧠 **400+ DSA Problems** | C++ · LeetCode + GeeksforGeeks |
-| 💻 **4,500+ GitHub Contributions** | Sustained development activity |
-| 🌐 **GirlScript Summer of Code Contributor** | 2025 |
-| 🌐 **ELUSOC Participant** | 2026 |
-| 🤖 **Oracle Agentic AI Certified Foundations Associate** | 2026 |
-| 📚 **McKinsey Forward Program** | Completed |
+- 🥇 **1st Place, College-level Hackathon**, January 2025, AI Code Analyzer
+- 🧠 **400+ DSA Problems**, C++ · LeetCode + GeeksforGeeks
+- 💻 **4,500+ GitHub Contributions**
+- 🌐 **GirlScript Summer of Code 2025 Contributor**
+- 🌐 **ELUSOC 2026 Participant**
+- 🤖 **Oracle Agentic AI Certified Foundations Associate**, 2026
+- 📚 **McKinsey Forward Program**
 
 ---
 
-## How I Approach Engineering
+## 🔬 What I'm Going Deeper Into
+
+### AI Systems
+
+LLM applications, RAG, retrieval architecture, tool calling, MCP, structured outputs, context engineering, model routing, and agent workflows.
+
+### Reliability & Evaluation
+
+Evaluation datasets, task-based evaluation, regression testing, failure analysis, tracing, observability, latency, cost, and quality measurement.
+
+### AI Security
+
+Prompt injection, indirect injection, tool permissions, least privilege, sandboxing, secret isolation, untrusted tool output, secure execution, and agent-specific attack surfaces.
+
+### Backend Engineering
+
+Type-safe APIs, NestJS, PostgreSQL, OpenAPI, validation, authentication, authorization, background jobs, concurrency, testing, and API contracts.
+
+### Developer Tooling
+
+MCP servers, coding agents, agent harnesses, AI-native developer tools, SDK generation, model routing, structured outputs, long-running agents, and evaluation infrastructure.
+
+---
+
+## 🛠️ Engineering Principles
 
 ### 01 · Understand Before Abstracting
 
-I try to understand what happens underneath the framework: **data structures, database queries, network requests, API contracts, model inputs, retrieval steps, and failure paths**.
+I want to understand what happens underneath the framework: **data structures, database queries, network requests, API contracts, model inputs, retrieval steps, and failure paths**.
 
 ### 02 · Measure Before Optimizing
 
-For backend and AI systems, useful measurements include **latency, correctness, retrieval quality, error rates, cost, test coverage, and reproducibility**.
+Useful engineering measurements include **latency, correctness, retrieval quality, error rates, cost, test coverage, and reproducibility**.
 
 ### 03 · Design for Failure
 
-A production-oriented system should account for **invalid input, unavailable dependencies, inconsistent state, bad model output, unsafe tool requests, timeouts, and partial failures**.
+Production systems should account for **invalid input, unavailable dependencies, inconsistent state, bad model output, unsafe tool requests, timeouts, and partial failures**.
 
 ### 04 · Keep Learning Transferable
 
-Frameworks change quickly. I want the underlying engineering concepts to remain useful even when the framework, model, database, or tool changes.
+Frameworks change quickly. The goal is to understand concepts deeply enough that the knowledge remains useful when the framework, model, database, or tool changes.
 
 ---
 
-## Beyond the Code
+## 🌱 Beyond the Code
 
 I continue strengthening the software engineering fundamentals underneath the AI layer:
 
@@ -259,22 +238,26 @@ The long-term goal is to build systems that are not only capable, but **understa
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Always+building+something+new;%F0%9F%94%A7+Always+learning+how+it+works;%F0%9F%9A%80+Always+improving+the+system" alt="Closing animation" />
-
 <p>
-<a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/nikhiljangid120"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://leetcode.com/nikhiljangid120/"><img src="https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="mailto:nikhiljangid343@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nikhil-jangid-b84360264/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://github.com/nikhiljangid120"><img src="https://img.shields.io/badge/💻%20GitHub-Profile-181717?style=for-the-badge" alt="GitHub" /></a>
+<a href="https://leetcode.com/nikhiljangid120/"><img src="https://img.shields.io/badge/🧠%20LeetCode-400%2B-FFA116?style=for-the-badge" alt="LeetCode" /></a>
+<a href="mailto:nikhiljangid343@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Contact-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <br/>
 
-**Building · Learning · Measuring · Improving**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=900&color=6B7280&center=true&vCenter=true&width=600&lines=Building+%C2%B7+Learning+%C2%B7+Measuring+%C2%B7+Improving;One+system+at+a+time." alt="Closing animation" /></a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=90&section=footer" width="100%" alt="Footer" />
 </div>
