@@ -37,6 +37,32 @@ I care about understanding the layer underneath the framework. I like tracing a 
 
 ---
 
+## Technical Toolkit
+
+### Languages & Core Engineering
+
+`C++` `C` `Java` `JavaScript` `TypeScript`
+
+Strongest current focus: **C++ for DSA and problem solving**, and **TypeScript for backend and AI-oriented application development**.
+
+### Frontend & Full-Stack
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Vite` `Monaco Editor`
+
+### Backend & Data
+
+`Node.js` `NestJS` `Express` `TypeORM` `PostgreSQL` `MongoDB` `Supabase` `MySQL` `Firebase` `OpenAPI` `Zod`
+
+### AI / GenAI Engineering
+
+`LLM Applications` `RAG` `Embeddings` `Vector Search` `Tool Calling` `MCP` `Agent Workflows` `Structured Outputs` `Context Engineering` `Model Routing` `AI APIs`
+
+### Infrastructure & Engineering Tools
+
+`Git` `GitHub` `Docker` `Docker Compose` `JWT` `Background Jobs` `REST APIs` `Authentication` `Authorization` `Testing` `Observability`
+
+---
+
 ## What I'm Exploring
 
 ### AI Systems
@@ -110,6 +136,19 @@ I also deliberately include **non-standard interview problems**, where recognizi
 
 ---
 
+## Open Source & Community
+
+### GitHub
+**4,500+ GitHub contributions**, reflecting sustained activity across software projects and development work.
+
+### GirlScript Summer of Code
+**GirlScript Summer of Code 2025 Contributor**, gaining experience with collaborative GitHub-based workflows and open-source development.
+
+### ELUSOC
+**ELUSOC 2026 Participant**, adding another open-source and community learning experience to my engineering journey.
+
+---
+
 ## Achievements & Certifications
 
 - **4,500+ GitHub contributions**
@@ -118,6 +157,22 @@ I also deliberately include **non-standard interview problems**, where recognizi
 - **Oracle Agentic AI Certified Foundations Associate · 2026**
 - **McKinsey Forward Program**
 - **1st Place · College-level Hackathon · January 2025**, for the AI Code Analyzer project
+
+---
+
+## Engineering Approach
+
+### Build from first principles
+I try to understand what happens underneath the abstraction: **data structures, database queries, network requests, API contracts, model inputs, retrieval steps, and failure paths**.
+
+### Measure before optimizing
+For backend and AI systems, I care about measurable behaviour: **latency, correctness, retrieval quality, error rates, cost, test coverage, and reproducibility** rather than relying only on intuition.
+
+### Design for failure
+A useful system should have explicit handling for **invalid input, unavailable dependencies, inconsistent state, bad model output, unsafe tool requests, timeouts, and partial failures**.
+
+### Keep learning transferable
+Frameworks change quickly. The goal is to carry the underlying engineering concepts across technologies instead of becoming dependent on a single library or workflow.
 
 ---
 
