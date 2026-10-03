@@ -1,0 +1,34 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B1220"/>
+    <stop offset="0.55" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0F172A"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="80" y1="40" x2="1100" y2="280" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#60A5FA"/>
+    <stop offset="0.5" stop-color="#A78BFA"/>
+    <stop offset="1" stop-color="#34D399"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.06"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<circle cx="1040" cy="55" r="120" fill="#60A5FA" fill-opacity="0.08" filter="url(#glow)"/>
+<circle cx="1120" cy="250" r="150" fill="#A78BFA" fill-opacity="0.06" filter="url(#glow)"/>
+<path d="M0 270C190 210 300 300 480 235C650 174 790 238 920 155C1030 85 1110 100 1200 55" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+<rect x="64" y="58" width="530" height="205" rx="18" fill="#020617" fill-opacity="0.72" stroke="#334155"/>
+<circle cx="88" cy="82" r="5" fill="#EF4444"/><circle cx="106" cy="82" r="5" fill="#F59E0B"/><circle cx="124" cy="82" r="5" fill="#22C55E"/>
+<text x="88" y="120" fill="#64748B" font-family="monospace" font-size="14">~/nikhil</text>
+<text x="88" y="153" fill="#E2E8F0" font-family="monospace" font-size="20">$ whoami</text>
+<text x="88" y="184" fill="#60A5FA" font-family="monospace" font-size="18">software-engineer</text>
+<text x="88" y="214" fill="#94A3B8" font-family="monospace" font-size="15">full-stack · backend · AI systems · C++ DSA</text>
+<text x="88" y="242" fill="#34D399" font-family="monospace" font-size="15">$ build → learn → ship</text>
+<text x="650" y="110" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="42">Nikhil Jangid</text>
+<text x="652" y="148" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">Software Engineer • Full-Stack &amp; AI Systems</text>
+<text x="652" y="184" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16">Building practical products, reliable backends,</text>
+<text x="652" y="208" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16">and AI-powered developer experiences.</text>
+<rect x="652" y="232" width="250" height="36" rx="18" fill="url(#accent)" fill-opacity="0.12" stroke="#64748B" stroke-opacity="0.55"/>
+<text x="677" y="256" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="14">2026 B.Tech CSE • Jaipur, India</text>
+</svg>
