@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&duration=2600&color=38BDF8&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Full-Stack+%7C+AI+Engineering;Backend+Systems+%7C+RAG+%7C+Developer+Tools;C%2B%2B+DSA+%7C+System+Design+%7C+Production+Engineering;Building+%E2%86%92+Learning+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&duration=2600&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full-Stack+%7C+AI+Engineering;Learning+AI+Engineering+%7C+RAG+%7C+LLM+Applications;Backend+Systems+%7C+Developer+Tools+%7C+System+Design;C%2B%2B+DSA+%7C+Building+%E2%86%92+Learning+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Animated introduction" />
 
 <br />
 
@@ -21,20 +21,20 @@
 
 ## About
 
-I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**. I build full-stack applications, backend services, AI-powered developer tools, and practical RAG systems.
+I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**. I build full-stack applications, backend services, AI-assisted developer tools, and practical RAG systems.
 
-I care about the engineering behind the product: **requirements → architecture → implementation → testing → deployment → iteration**. My current direction combines software engineering fundamentals with **AI Engineering**, while I rebuild strong C++ DSA and system-design fundamentals for software engineering roles.
+I care about the engineering behind the product: **requirements → architecture → implementation → testing → deployment → iteration**. My current direction is to become stronger at **AI Engineering** while rebuilding deep C++ DSA, backend, and system-design fundamentals.
 
 > **Engineering principle:** understand why a system works, not just how to make it work.
 
 ### Current focus
 
-| Area | What I'm working on |
+| Area | What I'm learning / building |
 | --- | --- |
-| **AI Engineering** | RAG, embeddings, semantic retrieval, LLM orchestration, MCP, evaluation, and agentic systems |
-| **Backend Engineering** | NestJS, PostgreSQL, TypeORM, API design, authentication, concurrency, and reliability |
+| **AI Engineering** | RAG, embeddings, semantic retrieval, LLM applications, agents, MCP, evaluation, and reliable AI workflows |
+| **Backend Engineering** | NestJS, PostgreSQL, TypeORM, API design, authentication, concurrency, background processing, and reliability |
 | **Full-Stack Development** | Next.js, React, TypeScript, Tailwind CSS, Supabase, and production-oriented UX |
-| **DSA** | C++ fundamentals, standard DSA patterns, problem solving, and interview reasoning |
+| **DSA** | C++ fundamentals, standard and non-standard problem solving, patterns, complexity, and interview reasoning |
 | **Systems** | System design, caching, queues, scalability, observability, and distributed-system fundamentals |
 
 ---
@@ -51,21 +51,23 @@ I care about the engineering behind the product: **requirements → architecture
 | **Frontend** | React, Next.js, Tailwind CSS, Zustand, HTML, CSS |
 | **Backend** | Node.js, NestJS, Express, REST APIs, TypeORM |
 | **Data** | PostgreSQL, pgvector, MongoDB, MySQL, Supabase |
-| **AI / Search** | RAG, embeddings, semantic search, LLM APIs, MCP |
+| **AI / Search** | RAG, embeddings, semantic search, LLM APIs, MCP, agentic workflows |
 | **Infrastructure** | Docker, Vercel, Render, Git, GitHub, Linux |
-| **Engineering** | Authentication, RBAC, API design, testing, concurrency |
+| **Engineering** | Authentication, RBAC, API design, testing, concurrency, background jobs |
 
 ---
 
-## Selected Work
+## Featured Engineering Work
 
 ### ✈️ Flyeng Career
 
-**AI-powered career development and placement-preparation platform**, built as a B.Tech capstone and product project with Gulshan Jangid.
+**AI-powered career development and placement-preparation platform**, built as a B.Tech capstone and product project with **Gulshan Jangid**.
 
-The platform brings career guidance, learning roadmaps, interview preparation, coding practice, resumes, job discovery, and professional branding into one AI-assisted experience.
+Flyeng connects career guidance, personalized roadmaps, interview preparation, coding practice, resume workflows, job discovery, professional branding, and AI-assisted learning inside one application instead of treating them as isolated tools.
 
-**Product areas:** AI mock interviews, personalized roadmaps, resume tools, code sandbox, AI courses, aptitude preparation, career chatbot, GitHub analysis, certificates, analytics, and developer-focused AI tools.
+**Engineering focus:** AI workflow integration, server/client boundaries, authentication, database-backed product flows, voice interfaces, browser-based coding, document processing, analytics, and client-side ML.
+
+**Core product areas:** Career Guidance, Resume Architect, Job Matcher, Career Roadmap, Neural Voice AI, AI Mock Interviews, AI Bootcamp Hub, Algo Dojo, Live Code Sandbox, Code Critic AI, DSA Visualizer, Project Ideas, Trend Hunter, Company Insider, Notes Summarizer, Cover Letter AI, Portfolio Auto-Builder.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Gemini, Groq, Deepgram, Hugging Face, TensorFlow.js, MediaPipe, Monaco Editor, Framer Motion, GSAP
 
@@ -74,9 +76,9 @@ The platform brings career guidance, learning roadmaps, interview preparation, c
 
 ### 🔎 RAG Chatbot
 
-A full-stack **Retrieval-Augmented Generation document Q&A system**.
+A full-stack **Retrieval-Augmented Generation document Q&A system** built around a concrete retrieval pipeline rather than a single model call.
 
-**Engineering highlights:** PDF ingestion, SHA-256 deduplication, sliding-window chunking, 384-dimensional MiniLM embeddings, PostgreSQL + pgvector retrieval, top-5 semantic search, OpenRouter-based generation, NestJS APIs, React/Vite client, and Dockerized development.
+**Engineering highlights:** PDF ingestion, SHA-256 deduplication, sliding-window chunking, 384-dimensional MiniLM embeddings, PostgreSQL + pgvector storage/retrieval, top-5 semantic search, OpenRouter-based generation, NestJS APIs, React/Vite client, and Dockerized development.
 
 <a href="https://nikhil-rag-chatbot.onrender.com/"><img src="https://img.shields.io/badge/Live%20Project-Open-22C55E?style=flat-square&logo=render&logoColor=white" alt="RAG chatbot live" /></a>
 <a href="https://github.com/nikhiljangid120/RAG-Chatbot"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="RAG chatbot source" /></a>
@@ -89,7 +91,7 @@ A developer-learning platform combining **AI-assisted code analysis** with inter
 - Error detection and debugging assistance
 - Sorting and data-structure visualization
 - Runtime and memory benchmarking
-- Monaco-based developer workflow
+- Monaco-based interactive coding workflow
 
 **Stack:** Next.js, TypeScript, AI APIs, Monaco Editor
 
@@ -98,20 +100,12 @@ A developer-learning platform combining **AI-assisted code analysis** with inter
 
 ### 📄 AI Resume Builder
 
-An AI-assisted resume creation platform focused on structured, application-ready resume content.
+An AI-assisted resume creation platform focused on structured, application-ready resumes, with live editing, multiple templates, ATS-oriented analysis, AI content improvement, authentication, and PDF export.
 
-**Stack:** Next.js, React, Tailwind CSS, Gemini API
+**Stack:** Next.js, TypeScript, Tailwind CSS, Shadcn UI, Groq, Clerk, Framer Motion, html2canvas, jsPDF
 
 <a href="https://ai-resume-builder-epbj.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-Open-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="AI Resume Builder live" /></a>
-
-### 🧪 Hey Grok Careers Flow Prototype
-
-An independently built, production-oriented application-flow prototype demonstrating a complete candidate journey: **careers → role details → application → validation → resume upload → submission → confirmation**.
-
-The implementation emphasizes server/client boundaries, Zod validation, private Supabase Storage, PostgreSQL constraints, accessibility, keyboard navigation, error handling, and Playwright coverage.
-
-<a href="https://hey-grok-careers-prototype.vercel.app/careers"><img src="https://img.shields.io/badge/Live%20Prototype-Open-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Hey Grok Careers prototype" /></a>
-<a href="https://github.com/nikhiljangid120/hey-grok-careers-prototype"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Hey Grok Careers prototype source" /></a>
+<a href="https://github.com/nikhiljangid120/AI-Resume-Builder"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="AI Resume Builder source" /></a>
 
 ---
 
@@ -142,7 +136,7 @@ Worked on frontend development using **React.js, JavaScript, and Tailwind CSS**,
 <a href="https://www.geeksforgeeks.org/profile/nikhiljals77"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </div>
 
-My primary DSA language is **C++**. The current goal is stronger fundamentals, standard problem-solving patterns, and interview-level reasoning rather than optimizing for a problem-count badge.
+My primary DSA language is **C++**. The current goal is stronger fundamentals, standard problem-solving patterns, non-standard problem solving, and interview-level reasoning rather than optimizing for a problem-count badge.
 
 ---
 
