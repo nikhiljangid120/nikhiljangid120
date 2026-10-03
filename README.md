@@ -2,9 +2,9 @@
 
 <img src="./profile-banner.svg" alt="Nikhil Jangid - Software Engineer" width="100%" />
 
-### Software Engineering · Backend · AI Engineering · C++ DSA
+### Software Engineering · Backend · AI Systems · C++ DSA
 
-Building practical products and learning the systems behind them.
+Building practical software, reliable backends, and useful AI-powered products.
 
 <p>
 <a href="https://www.nikhiljangid.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -19,9 +19,9 @@ Building practical products and learning the systems behind them.
 
 ## About
 
-I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**, based in Jaipur. I work across full-stack development, backend systems, AI applications, and C++ problem solving.
+I'm **Nikhil Jangid**, a **2026 B.Tech Computer Science & Engineering graduate from Amity University Rajasthan**, based in Jaipur. My work sits across full-stack development, backend engineering, AI applications, and C++ problem solving.
 
-I am especially interested in the layer between **software engineering and AI**: building systems that are typed, testable, observable, secure, and useful in production.
+I am particularly interested in the engineering layer around AI: APIs, data flow, retrieval, tool use, evaluation, security, observability, and the systems required to make AI features dependable in production.
 
 > **Understand the system. Build it. Measure it. Improve it.**
 
@@ -34,24 +34,22 @@ I am especially interested in the layer between **software engineering and AI**:
 
 ---
 
-## What I'm Exploring
+## Current Focus
 
-### AI Systems
-`LLM applications` `RAG` `tool calling` `MCP` `agent workflows` `context engineering`
+### AI Systems & Product Engineering
+I'm going deeper into **LLM application architecture, RAG, tool calling, MCP, agent workflows, context engineering, structured outputs, model routing, and long-running AI systems**. The focus is on understanding the engineering trade-offs rather than treating frameworks as black boxes.
 
-### Reliability & Evaluation
-`eval design` `task-based evals` `LLM-as-judge` `failure analysis` `observability` `tracing` `quality metrics`
+### Evaluation, Reliability & Observability
+I'm learning how to make AI systems measurable through **task-based evaluations, eval datasets, LLM-as-judge patterns, regression testing, failure analysis, tracing, latency/cost tracking, and quality metrics**.
 
-### AI Security
-`prompt injection` `tool permissions` `sandboxing` `data boundaries` `secret isolation` `agent security` `secure execution`
+### AI Security & Safe Execution
+I'm exploring **prompt injection, indirect injection, tool authorization, sandboxing, secret isolation, data boundaries, least-privilege execution, untrusted tool outputs, and agent security** as first-class engineering concerns.
 
-### Modern TypeScript & Backend
-`TypeScript` `type-safe APIs` `Zod` `NestJS` `PostgreSQL` `OpenAPI` `background jobs` `concurrency` `testing`
+### Type-Safe Backend Engineering
+I'm strengthening **modern TypeScript, type-safe APIs, Zod, NestJS, PostgreSQL, OpenAPI, background jobs, concurrency, testing, and API contracts**, with an emphasis on making backend systems easier to reason about and maintain.
 
 ### Developer Ecosystem
-`MCP servers` `agent harnesses` `coding agents` `SDK generation` `AI developer tools` `model routing` `structured outputs` `long-running agents`
-
-I'm also following how the developer community is evolving around **agent runtimes, evaluation infrastructure, secure execution, MCP, and AI-native developer tooling**.
+I'm also following the rapidly changing developer ecosystem around **MCP servers, coding agents, agent harnesses, AI-native IDEs, SDK generation, model routing, developer tooling, secure execution, and evaluation infrastructure**.
 
 ---
 
@@ -60,29 +58,25 @@ I'm also following how the developer community is evolving around **agent runtim
 ### ✈️ Flyeng Career
 AI-assisted career development and placement-preparation platform built with **Gulshan Jangid**.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` `Groq`
-
+**Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Gemini, Groq  
 [Live Project](https://flyeng-career.vercel.app/)
 
 ### 🔎 RAG Chatbot
-Document Q&A system using semantic retrieval, local embeddings, **PostgreSQL + pgvector**, and LLM generation.
+Document Q&A system built around semantic retrieval and LLM generation.
 
-`NestJS` `PostgreSQL` `pgvector` `MiniLM` `OpenRouter` `Docker`
-
+**Stack:** NestJS, PostgreSQL, pgvector, MiniLM, OpenRouter, Docker  
 [Live Project](https://nikhil-rag-chatbot.onrender.com/) · [Source](https://github.com/nikhiljangid120/RAG-Chatbot)
 
 ### 🧠 Code Analyzer
-Developer tool for AI-assisted code analysis, complexity reasoning, debugging, and algorithm visualization.
+Developer tool focused on AI-assisted code analysis, complexity reasoning, debugging, and algorithm visualization.
 
-`Next.js` `TypeScript` `Monaco Editor` `AI APIs`
-
+**Stack:** Next.js, TypeScript, Monaco Editor, AI APIs  
 [Live Project](https://code-analyzer-f7bq.vercel.app/) · [Source](https://github.com/nikhiljangid120/Code-Analyzer)
 
 ### 📄 AI Resume Builder
-Resume engineering application with structured editing, AI-assisted improvements, ATS-oriented analysis, and PDF export.
+Resume engineering application with structured editing, AI assistance, ATS-oriented analysis, and PDF export.
 
-`Next.js` `TypeScript` `Tailwind CSS` `Groq` `Clerk`
-
+**Stack:** Next.js, TypeScript, Tailwind CSS, Groq, Clerk  
 [Live Project](https://ai-resume-builder-epbj.vercel.app/) · [Source](https://github.com/nikhiljangid120/AI-Resume-Builder)
 
 ---
@@ -92,7 +86,7 @@ Resume engineering application with structured editing, AI-assisted improvements
 **Wisflux Tech Labs · Agentic AI / Software Engineering Intern**  
 `Jun 2026 - Jul 2026 · Jaipur`
 
-Worked with **NestJS, TypeORM, PostgreSQL, JWT, Docker, background processing, and RAG systems**, including backend APIs, transactional workflows, document ingestion, embeddings, and vector retrieval.
+Worked across backend APIs, transactional workflows, background processing, document ingestion, embeddings, and vector retrieval using NestJS, TypeORM, PostgreSQL, JWT, Docker, and related tooling.
 
 **Celebal Technologies · Frontend Developer Intern**  
 `May 2024 - Jul 2024`
@@ -103,9 +97,9 @@ Worked on frontend development with modern JavaScript and React-based tooling.
 
 ## Problem Solving
 
-**400+ DSA problems in C++** across LeetCode and GeeksforGeeks, with current practice focused on understanding patterns, edge cases, complexity, implementation, and non-standard interview problems.
+**400+ DSA problems in C++** across LeetCode and GeeksforGeeks. Current practice emphasizes understanding the reasoning behind an approach, complexity, edge cases, implementation details, and non-standard interview problems.
 
-Areas I am actively strengthening: **arrays, strings, hashing, two pointers, sliding window, binary search, linked lists, stacks, queues, trees, heaps, graphs, recursion, backtracking, dynamic programming, greedy algorithms, bit manipulation, and complexity analysis.**
+I am actively strengthening **arrays, strings, hashing, two pointers, sliding window, binary search, linked lists, stacks, queues, trees, heaps, graphs, recursion, backtracking, dynamic programming, greedy algorithms, bit manipulation, sorting, searching, and complexity analysis**.
 
 ---
 
