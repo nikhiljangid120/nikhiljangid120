@@ -124,7 +124,7 @@ The work exposed me to practical concerns around **concurrency, data consistency
 
 ### Celebal Technologies · Frontend Developer Intern
 
-`May 2025 - Jul 2025`
+`May 2025 - Jul 2025 · Remote`
 
 Worked on frontend development with **modern JavaScript and React-based tooling**, gaining practical experience with component-driven interfaces and web application development.
 
